@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Allada%20Sai%20Satya%20Sharan&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Django%20%26%20Systems%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+scalable+Django+%26+PostgreSQL+systems;Integrating+ML+into+real-world+web+products;Final+Year+B.Tech+%40+JNTU-G+%E2%80%94+IT;Targeting+GATE+CSE+2027)](https://git.io/typing-svg)
 
 <br/>
