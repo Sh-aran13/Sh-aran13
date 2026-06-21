@@ -7,9 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Applications;Machine+Learning+Project+Developer;Open+Source+Learner;Future+Software+Engineer" alt="Typing SVG" />
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
-
 </div>
 
 ---
