@@ -209,17 +209,6 @@ React.js, Node.js, MongoDB
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-aran13&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sh-aran13&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
 ---
 
 # 📊 Contribution Graph
@@ -227,16 +216,6 @@ React.js, Node.js, MongoDB
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh-aran13&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sh-aran13/Sh-aran13/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
