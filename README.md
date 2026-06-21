@@ -1,173 +1,149 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi, I'm Allada Sai Satya Sharan
-
 <div align="center">
 
-### 🚀 Full Stack Software Engineer | Django & Enterprise Systems Enthusiast
+# Allada Sai Satya Sharan
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Web+Applications;Machine+Learning+Integration;Open+Source+Contributor;Future+Software+Engineer" alt="Typing SVG" />
+**Full Stack Engineer · Django & Systems Enthusiast · GATE CSE 2027**
 
----
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sharan-portfolio07.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-satya-sharan-allada-3412752b7)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharan.alla07@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sharan--portfolio07.vercel.app-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://sharan-portfolio07.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sai--satya--sharan--allada-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-satya-sharan-allada-3412752b7)
+[![Email](https://img.shields.io/badge/Email-sharan.alla07@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sharan.alla07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Sh--aran13-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sh-aran13)
 
 </div>
 
 ---
 
-## 💫 About Me
+## About
 
-<table align="center" width="100%">
-<tr>
-<td width="55%" valign="top">
+Final-year B.Tech student in **Information Technology** at JNTU–Gurajada, Vizianagaram — building production-ready web applications with clean backends and performant frontends. My work centres on Django-driven systems, relational data modelling with PostgreSQL, and integrating ML workflows into real-world products.
 
-### 🎓 Education & Background
-* **Degree:** Final Year B.Tech in **Information Technology**
-* **Institution:** Jawaharlal Nehru Technological University – Gurajada, Vizianagaram
-* **Focus:** Crafting production-ready applications with seamless frontend experiences and robust backend architectures.
+Currently preparing for **GATE CSE 2027** while deepening expertise in system design, algorithms, and open-source contribution.
 
-### 🎯 Core Objectives
-* **Short-Term:** Master highly scalable system architectures and secure a high-impact Software Development role.
-* **Academic Milestones:** Actively preparing to conquer **GATE CSE 2027**.
-* **Philosophy:** *"Transforming abstract business requirements into clean, optimized, and performant codebases."*
-</td>
-
-<td width="45%" valign="top">
-
-### 🌱 Current Focus Areas
-- [x] **Advanced Ecosystems:** React.js deep dives & asynchronous Node.js execution.
-- [x] **Data Persistence:** Relational database optimization using **PostgreSQL**.
-- [x] **Computer Science Core:** Data Structures, Algorithms, and System Design.
-- [x] **Open Source:** Actively seeking meaningful contributions.
-</td>
-</tr>
-</table>
+> *"Transforming business requirements into clean, optimized, and maintainable codebases — one atomic commit at a time."*
 
 ---
 
-## 🛠️ Technical Ecosystem
+## Tech Stack
 
-### 💻 Core Languages & Web Fundamentals
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" /></a>
-</p>
+**Languages**
 
-### 🌐 Backend & Server-Side Systems
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,nodejs,express,php" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### 🗄️ Database Architecture & DevOps
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode,npm" /></a>
-</p>
+**Frameworks & Runtimes**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Architectural & Machine Learning Projects
+## Projects
 
 ### 🏥 Medicine Recommendation System
-> An intelligent healthcare platform that leverages machine learning algorithms to predict diseases and recommend targeted medical workflows based on patient-reported symptom configurations.
+Intelligent healthcare platform using ML to predict diseases and recommend medical workflows based on patient-reported symptoms.
 
-* **Tech Stack:** `Python` • `Django` • `Machine Learning` • `PostgreSQL`
-* **Database Integration:** Relational schema optimized in **PostgreSQL** for managing disease profiles, multi-layered symptom weights, and medical inventory catalogs.
-* **Core Capabilities:** Predictive diagnostic models, responsive clinical dashboard, real-time recommendation matrices.
+- **Stack:** Python · Django · scikit-learn · PostgreSQL
+- Relational schema managing disease profiles, symptom weights, and medical inventory
+- Predictive diagnostic models with a responsive clinical dashboard and real-time recommendation engine
 
 ---
 
 ### 💰 Loan Approval Prediction System
-> A high-throughput financial analytics system engineered to process applicant metadata and predict credit risk using production-grade machine learning classification models.
+High-throughput financial analytics system predicting credit risk via production-grade ML classification.
 
-* **Tech Stack:** `Python` • `Django` • `Random Forest Classifier` • `PostgreSQL`
-* **Database Integration:** Leverages **PostgreSQL** transactional features to log secure credit profiling analytics, user transaction metadata, and historical approval audit trails.
-* **Core Capabilities:** Automated risk calculations, enterprise financial dashboarding, sub-second model inferences.
-
----
-
-### 👨‍💼 Enterprise Employee Management System
-> A modern HR and enterprise administration platform tailored to manage scalable workforce directories, multi-department configurations, and automated recruitment pipelines.
-
-* **Tech Stack:** `PHP` • `JavaScript` • `Bootstrap` • `PostgreSQL`
-* **Database Integration:** Handled via custom structured relational constraints in **PostgreSQL** ensuring atomic transactions for payroll tracking, cross-department relationships, and document storage paths.
-* **Core Capabilities:** Complex query filters, asynchronous profile generation, fine-grained RBAC (Role-Based Access Control).
+- **Stack:** Python · Django · Random Forest Classifier · PostgreSQL
+- PostgreSQL transactional features log secure credit profiling analytics and historical approval audit trails
+- Automated risk calculations with sub-second model inference and enterprise financial dashboarding
 
 ---
 
-### 📚 Scalable Library Management Engine
-> A digital inventory automation solution designed to manage recursive book distributions, user membership matrices, and auto-calculated overdue fine ledger tracking.
+### 👤 Enterprise Employee Management System
+Modern HR administration platform for scalable workforce directories, multi-department configuration, and automated recruitment pipelines.
 
-* **Tech Stack:** `Python` • `Django` • `PostgreSQL`
-* **Database Integration:** Fully powered by **PostgreSQL**, managing strict relational integrity constraints between concurrent borrowing operations, real-time stock balances, and member history records.
-* **Core Capabilities:** Anti-race condition item borrowing, administrative asset allocation dashboard, powerful global search indices.
+- **Stack:** PHP · JavaScript · Bootstrap · PostgreSQL
+- Structured relational constraints ensuring atomic transactions for payroll, cross-department relationships, and document storage
+- Fine-grained RBAC (Role-Based Access Control) with complex query filters and asynchronous profile generation
+
+---
+
+### 📚 Library Management Engine
+Digital inventory automation managing recursive book distributions, user memberships, and overdue fine ledger tracking.
+
+- **Stack:** Python · Django · PostgreSQL
+- Anti-race condition borrowing system with strict relational integrity across concurrent operations
+- Administrative asset allocation dashboard with global search indices and real-time stock balances
 
 ---
 
 ### 🚗 Car Rental Fleet Management System
-> A complete consumer-to-business car rental system focusing on high-availability vehicle booking pipelines, automated fleet statuses, and client profiles.
+Consumer-to-business rental platform with high-availability vehicle booking, automated fleet statuses, and client profiles.
 
-* **Tech Stack:** `Python` • `Django` • `PostgreSQL`
-* **Database Integration:** Utilizes a highly normalized **PostgreSQL** layout to track real-time fleet availability status, eliminating overbooking bugs using transactional locks.
-* **Core Capabilities:** Automated booking workflows, secure user registration, live dynamic pricing profiles.
+- **Stack:** Python · Django · PostgreSQL
+- Highly normalized PostgreSQL layout using transactional locks to eliminate overbooking
+- Automated booking workflows, secure user registration, and live dynamic pricing profiles
 
 ---
 
 ### 📝 Dynamic Quiz Engine
-> A secure, concurrent online testing and assessment server enabling multi-topic quiz generation, strict time limits, and immediate micro-service grade performance grading.
+Secure, concurrent online testing server enabling multi-topic quiz generation with strict time limits and real-time grading.
 
-* **Tech Stack:** `Python` • `Django` • `PostgreSQL`
-* **Database Integration:** Engineered with **PostgreSQL** to handle concurrent result evaluations, real-time storage of multi-variant questions, and detailed choice distribution tables.
-* **Core Capabilities:** Token-based secure test state tracking, comprehensive user analysis dashboard, real-time score metric calculation.
-
----
-
-## 🏆 Leadership & Key Contributions
-
-### **Overall Workshop Coordinator — ITYUKTA 2026**
-* **Operational Execution:** Spearheaded cross-functional execution teams to manage technical tracks and logistical operations during the technical festival.
-* **Resource Coordination:** Structured cross-department scheduling timelines, aligned stakeholder requirements, and managed engagement funnels for hundreds of participants.
-* **Core Competencies Built:** Cross-functional leadership, large-scale event operations, crisis mitigation, agile project coordination.
+- **Stack:** Python · Django · PostgreSQL
+- Token-based secure test state tracking across concurrent sessions
+- Comprehensive user analytics dashboard with real-time score metric calculation and multi-variant question storage
 
 ---
 
-## 📊 Performance Metrics & Activity Insights
+## Leadership
+
+**Overall Workshop Coordinator — ITYUKTA 2026**
+
+Led cross-functional execution teams across technical tracks and logistical operations during JNTU-G's annual technical festival. Managed scheduling, stakeholder alignment, and participant engagement funnels for hundreds of attendees. Delivered the event with zero critical failures through agile coordination and proactive crisis mitigation.
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sh-aran13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-</td>
-<td width="50%" align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sh-aran13&theme=tokyonight&hide_border=true"/>
-</td>
-</tr>
-</table>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sh-aran13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sh-aran13&theme=tokyonight&hide_border=true" />
 
-<br>
+<br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-aran13&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-### **Git Production Activity**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh-aran13&theme=tokyo-night" width="100%"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-aran13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
+## Currently Working On
+
+- Deep-diving **React.js** patterns and async **Node.js** execution models
+- Strengthening **DSA** and **System Design** for competitive exams and interviews
+- Exploring **open-source** contribution opportunities in Django and Python ecosystems
+
+---
+
 <div align="center">
 
-### 🤝 Let's Collaborate on Impactful Engineering Solutions!
+**Open to internships, collaborations, and impactful engineering work.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sh-aran13)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-satya-sharan-allada-3412752b7)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharan.alla07@gmail.com)
-
-> *"Great software is built one atomic commit at a time."*
-
-⭐️ **If you find my projects impactful, feel free to explore and star my repositories!** ⭐️
+[![Portfolio](https://img.shields.io/badge/See_My_Work-sharan--portfolio07.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://sharan-portfolio07.vercel.app/)
 
 </div>
