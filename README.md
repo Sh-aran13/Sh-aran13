@@ -1,399 +1,173 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Allada Sai Satya Sharan
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi, I'm Allada Sai Satya Sharan
 
 <div align="center">
 
-### 🚀 Full Stack Developer | IT Engineer | Django enthusiast
+### 🚀 Full Stack Software Engineer | Django & Enterprise Systems Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Applications;Machine+Learning+Project+Developer;Open+Source+Learner;Future+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Web+Applications;Machine+Learning+Integration;Open+Source+Contributor;Future+Software+Engineer" alt="Typing SVG" />
+
+---
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sharan-portfolio07.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-satya-sharan-allada-3412752b7)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharan.alla07@gmail.com)
+
+</div>
+
+---
+
+## 💫 About Me
+
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### 🎓 Education & Background
+* **Degree:** Final Year B.Tech in **Information Technology**
+* **Institution:** Jawaharlal Nehru Technological University – Gurajada, Vizianagaram
+* **Focus:** Crafting production-ready applications with seamless frontend experiences and robust backend architectures.
+
+### 🎯 Core Objectives
+* **Short-Term:** Master highly scalable system architectures and secure a high-impact Software Development role.
+* **Academic Milestones:** Actively preparing to conquer **GATE CSE 2027**.
+* **Philosophy:** *"Transforming abstract business requirements into clean, optimized, and performant codebases."*
+</td>
+
+<td width="45%" valign="top">
+
+### 🌱 Current Focus Areas
+- [x] **Advanced Ecosystems:** React.js deep dives & asynchronous Node.js execution.
+- [x] **Data Persistence:** Relational database optimization using **PostgreSQL**.
+- [x] **Computer Science Core:** Data Structures, Algorithms, and System Design.
+- [x] **Open Source:** Actively seeking meaningful contributions.
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Ecosystem
+
+### 💻 Core Languages & Web Fundamentals
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" /></a>
+</p>
+
+### 🌐 Backend & Server-Side Systems
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,nodejs,express,php" /></a>
+</p>
+
+### 🗄️ Database Architecture & DevOps
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode,npm" /></a>
+</p>
+
+---
+
+## 🚀 Architectural & Machine Learning Projects
+
+### 🏥 Medicine Recommendation System
+> An intelligent healthcare platform that leverages machine learning algorithms to predict diseases and recommend targeted medical workflows based on patient-reported symptom configurations.
+
+* **Tech Stack:** `Python` • `Django` • `Machine Learning` • `PostgreSQL`
+* **Database Integration:** Relational schema optimized in **PostgreSQL** for managing disease profiles, multi-layered symptom weights, and medical inventory catalogs.
+* **Core Capabilities:** Predictive diagnostic models, responsive clinical dashboard, real-time recommendation matrices.
+
+---
+
+### 💰 Loan Approval Prediction System
+> A high-throughput financial analytics system engineered to process applicant metadata and predict credit risk using production-grade machine learning classification models.
+
+* **Tech Stack:** `Python` • `Django` • `Random Forest Classifier` • `PostgreSQL`
+* **Database Integration:** Leverages **PostgreSQL** transactional features to log secure credit profiling analytics, user transaction metadata, and historical approval audit trails.
+* **Core Capabilities:** Automated risk calculations, enterprise financial dashboarding, sub-second model inferences.
+
+---
+
+### 👨‍💼 Enterprise Employee Management System
+> A modern HR and enterprise administration platform tailored to manage scalable workforce directories, multi-department configurations, and automated recruitment pipelines.
+
+* **Tech Stack:** `PHP` • `JavaScript` • `Bootstrap` • `PostgreSQL`
+* **Database Integration:** Handled via custom structured relational constraints in **PostgreSQL** ensuring atomic transactions for payroll tracking, cross-department relationships, and document storage paths.
+* **Core Capabilities:** Complex query filters, asynchronous profile generation, fine-grained RBAC (Role-Based Access Control).
+
+---
+
+### 📚 Scalable Library Management Engine
+> A digital inventory automation solution designed to manage recursive book distributions, user membership matrices, and auto-calculated overdue fine ledger tracking.
+
+* **Tech Stack:** `Python` • `Django` • `PostgreSQL`
+* **Database Integration:** Fully powered by **PostgreSQL**, managing strict relational integrity constraints between concurrent borrowing operations, real-time stock balances, and member history records.
+* **Core Capabilities:** Anti-race condition item borrowing, administrative asset allocation dashboard, powerful global search indices.
+
+---
+
+### 🚗 Car Rental Fleet Management System
+> A complete consumer-to-business car rental system focusing on high-availability vehicle booking pipelines, automated fleet statuses, and client profiles.
+
+* **Tech Stack:** `Python` • `Django` • `PostgreSQL`
+* **Database Integration:** Utilizes a highly normalized **PostgreSQL** layout to track real-time fleet availability status, eliminating overbooking bugs using transactional locks.
+* **Core Capabilities:** Automated booking workflows, secure user registration, live dynamic pricing profiles.
+
+---
+
+### 📝 Dynamic Quiz Engine
+> A secure, concurrent online testing and assessment server enabling multi-topic quiz generation, strict time limits, and immediate micro-service grade performance grading.
+
+* **Tech Stack:** `Python` • `Django` • `PostgreSQL`
+* **Database Integration:** Engineered with **PostgreSQL** to handle concurrent result evaluations, real-time storage of multi-variant questions, and detailed choice distribution tables.
+* **Core Capabilities:** Token-based secure test state tracking, comprehensive user analysis dashboard, real-time score metric calculation.
+
+---
+
+## 🏆 Leadership & Key Contributions
+
+### **Overall Workshop Coordinator — ITYUKTA 2026**
+* **Operational Execution:** Spearheaded cross-functional execution teams to manage technical tracks and logistical operations during the technical festival.
+* **Resource Coordination:** Structured cross-department scheduling timelines, aligned stakeholder requirements, and managed engagement funnels for hundreds of participants.
+* **Core Competencies Built:** Cross-functional leadership, large-scale event operations, crisis mitigation, agile project coordination.
+
+---
+
+## 📊 Performance Metrics & Activity Insights
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sh-aran13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+</td>
+<td width="50%" align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sh-aran13&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
 
 <br>
-</div>
-
----
-
-# 💫 About Me
-
-🎓 Final Year B.Tech (Information Technology)
-
-🏫 Jawaharlal Nehru Technological University – Gurajada, Vizianagaram
-
-💻 Passionate Full Stack Web Developer
-
-🌱 Currently Learning:
-
-* Advanced React
-* Node.js
-* PostgreSQL
-* System Design
-* Data Structures & Algorithms
-
-🚀 Interested In:
-
-* Software Development
-* Full Stack Development
-* Database Systems
-* Machine Learning
-* Open Source
-
-🎯 Goal:
-Become a Software Engineer and build impactful technology solutions.
-
----
-
-# 🌐 Portfolio
-
-### Portfolio Website
-
-🔗 https://sharan-portfolio07.vercel.app/
-
----
-
-# 🛠️ Tech Stack
-
-## Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
-</p>
-
-## Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-</p>
-
-## Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-## Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-### 🌟 Projects That Showcase My Development Journey
-
-*From Machine Learning Solutions to Enterprise Applications*
-
-</div>
-
----
-
-## 🏥 Medicine Recommendation System
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-
-</div>
-
-### 📌 Overview
-
-An intelligent healthcare platform that leverages machine learning algorithms to predict diseases and recommend suitable medications based on patient symptoms.
-
-### ✨ Highlights
-
-🔹 Disease Prediction Engine
-
-🔹 Medicine Recommendation System
-
-🔹 Healthcare Assistance Dashboard
-
-🔹 Machine Learning Integration
-
-🔹 Responsive User Experience
-
-### 🎯 Impact
-
-Improves preliminary healthcare guidance through data-driven predictions and recommendations.
-
----
-
-## 💰 Loan Approval Prediction System
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge)
-
-</div>
-
-### 📌 Overview
-
-A financial analytics application that predicts loan approval eligibility using machine learning models trained on applicant data.
-
-### ✨ Highlights
-
-🔹 Loan Eligibility Prediction
-
-🔹 Financial Data Analysis
-
-🔹 Interactive Dashboard
-
-🔹 Real-Time Prediction Results
-
-🔹 Data-Driven Decision Support
-
-### 🎯 Impact
-
-Helps streamline loan assessment processes through predictive analytics.
-
----
-
-## 👨‍💼 Employee Management System
-
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-</div>
-
-### 📌 Overview
-
-A modern HR and employee administration platform built to manage employee records, departmental operations, and recruitment workflows.
-
-### ✨ Highlights
-
-🔹 Employee Registration & Profiles
-
-🔹 Resume Management
-
-🔹 Department & Designation Tracking
-
-🔹 Search & Filter Functionality
-
-🔹 HR Dashboard & Analytics
-
-🔹 PostgreSQL Database Integration
-
-### 🎯 Impact
-
-Digitizes workforce management and improves HR operational efficiency.
-
----
-
-## 📚 Library Management System
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-
-</div>
-
-### 📌 Overview
-
-A complete digital library solution designed to manage books, members, borrowing records, and inventory operations.
-
-### ✨ Highlights
-
-🔹 Book Inventory Management
-
-🔹 Member Registration
-
-🔹 Issue & Return Tracking
-
-🔹 Advanced Search Features
-
-🔹 Administrative Dashboard
-
-### 🎯 Impact
-
-Automates traditional library operations and improves record accuracy.
-
----
-
-## 🚗 Car Rental System
-
-<div align="center">
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Database](https://img.shields.io/badge/Database-4479A1?style=for-the-badge)
-
-</div>
-
-### 📌 Overview
-
-A business-oriented rental management application that enables efficient vehicle booking and customer management.
-
-### ✨ Highlights
-
-🔹 Vehicle Booking Platform
-
-🔹 Rental Tracking System
-
-🔹 Customer Management
-
-🔹 Vehicle Availability Monitoring
-
-🔹 Administrative Controls
-
-### 🎯 Impact
-
-Simplifies vehicle rental operations and improves customer experience.
-
----
-
-## 📝 Quiz Application
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-
-</div>
-
-### 📌 Overview
-
-An online examination and assessment platform that allows users to take quizzes and instantly evaluate their performance.
-
-### ✨ Highlights
-
-🔹 User Authentication
-
-🔹 Quiz Creation & Management
-
-🔹 Automated Scoring
-
-🔹 Performance Analytics
-
-🔹 Result Tracking Dashboard
-
-### 🎯 Impact
-
-Provides an engaging and scalable platform for online assessments.
-
----
-
-<div align="center">
-
-# 🎯 Core Competencies Demonstrated
-
-| Domain                    | Skills                 |
-| ------------------------- | ---------------------- |
-| 🌐 Full Stack Development | Frontend + Backend     |
-| 🐍 Django Development     | Web Applications       |
-| 🤖 Machine Learning       | Predictive Analytics   |
-| 🗄️ Database Management   | PostgreSQL, SQL        |
-| 🔐 Authentication         | Secure Login Systems   |
-| 📊 Data Analysis          | Business Insights      |
-| 🚀 Software Engineering   | End-to-End Development |
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Continuously Building, Learning & Innovating
-
-*"Transforming ideas into scalable software solutions."*
-
-</div>
-
----
-
-# 🏆 Leadership & Activities
-
-## Overall Workshop Coordinator – ITYUKTA 2026
-
-* Led technical workshops
-* Coordinated event operations
-* Managed participants and scheduling
-* Worked with cross-functional teams
-* Developed leadership and communication skills
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sh-aran13&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sh-aran13&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-aran13&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
----
+<br><br>
 
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh-aran13&theme=tokyo-night"/>
+### **Git Production Activity**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh-aran13&theme=tokyo-night" width="100%"/>
 
 </div>
 
 ---
 
-# 🎯 Current Goals
-
-* Contribute to Open Source Projects
-* Build Scalable Full Stack Applications
-* Strengthen DSA & Problem Solving Skills
-* Crack GATE CSE 2027
-* Secure Software Development Opportunities
-
----
-
-# 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Sh-aran13">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sai-satya-sharan-allada-3412752b7?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:sharan.alla07@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-# 💭 Developer Quote
-
-> "Great software is built one commit at a time."
-
----
-
 <div align="center">
 
-### ⭐ Thank You For Visiting My Profile ⭐
+### 🤝 Let's Collaborate on Impactful Engineering Solutions!
 
-If you like my work, don't forget to star my repositories.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sh-aran13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-satya-sharan-allada-3412752b7)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharan.alla07@gmail.com)
+
+> *"Great software is built one atomic commit at a time."*
+
+⭐️ **If you find my projects impactful, feel free to explore and star my repositories!** ⭐️
 
 </div>
