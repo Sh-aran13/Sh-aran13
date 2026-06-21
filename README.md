@@ -206,7 +206,7 @@ React.js, Node.js, MongoDB
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-aran13&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -216,7 +216,7 @@ React.js, Node.js, MongoDB
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sh-aran13&theme=tokyonight&row=1&column=7"/>
 
 </div>
 
@@ -226,7 +226,7 @@ React.js, Node.js, MongoDB
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh-aran13&theme=tokyo-night"/>
 
 </div>
 
@@ -236,7 +236,7 @@ React.js, Node.js, MongoDB
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Sh-aran13/Sh-aran13/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
