@@ -84,99 +84,232 @@ Become a Software Engineer and build impactful technology solutions.
 
 # 🚀 Featured Projects
 
-## 🔐 Secure Authentication System
+<div align="center">
 
-### Features
+### 🌟 Projects That Showcase My Development Journey
 
-* User Registration & Login
-* Password Hashing using Bcrypt
-* JWT Authentication
-* Protected Routes
-* Responsive Design
+*From Machine Learning Solutions to Enterprise Applications*
 
-### Tech Stack
-
-HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
-
----
-
-## 👨‍💼 Employee Management System
-
-### Features
-
-* Employee Registration
-* HR Management
-* Admin Dashboard
-* PostgreSQL Database
-* Resume Upload
-* Search & Filter
-
-### Tech Stack
-
-PHP, PostgreSQL, HTML, CSS, JavaScript
+</div>
 
 ---
 
 ## 🏥 Medicine Recommendation System
 
-### Features
+<div align="center">
 
-* Disease Prediction
-* Medicine Recommendation
-* Machine Learning Model
-* User-Friendly Dashboard
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 
-### Tech Stack
+</div>
 
-Python, Django, Machine Learning
+### 📌 Overview
+
+An intelligent healthcare platform that leverages machine learning algorithms to predict diseases and recommend suitable medications based on patient symptoms.
+
+### ✨ Highlights
+
+🔹 Disease Prediction Engine
+
+🔹 Medicine Recommendation System
+
+🔹 Healthcare Assistance Dashboard
+
+🔹 Machine Learning Integration
+
+🔹 Responsive User Experience
+
+### 🎯 Impact
+
+Improves preliminary healthcare guidance through data-driven predictions and recommendations.
 
 ---
 
 ## 💰 Loan Approval Prediction System
 
-### Features
+<div align="center">
 
-* Loan Approval Prediction
-* Random Forest Algorithm
-* Data Analysis
-* Interactive Interface
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge)
 
-### Tech Stack
+</div>
 
-Python, Django, Machine Learning
+### 📌 Overview
+
+A financial analytics application that predicts loan approval eligibility using machine learning models trained on applicant data.
+
+### ✨ Highlights
+
+🔹 Loan Eligibility Prediction
+
+🔹 Financial Data Analysis
+
+🔹 Interactive Dashboard
+
+🔹 Real-Time Prediction Results
+
+🔹 Data-Driven Decision Support
+
+### 🎯 Impact
+
+Helps streamline loan assessment processes through predictive analytics.
 
 ---
 
-## 🎓 SkillNova Internship Management System
+## 👨‍💼 Employee Management System
 
-### Features
+<div align="center">
 
-* Internship Tracking
-* Student Management
-* Admin Dashboard
-* Role-Based Access
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Tech Stack
+</div>
 
-React.js, Node.js, MongoDB
+### 📌 Overview
+
+A modern HR and employee administration platform built to manage employee records, departmental operations, and recruitment workflows.
+
+### ✨ Highlights
+
+🔹 Employee Registration & Profiles
+
+🔹 Resume Management
+
+🔹 Department & Designation Tracking
+
+🔹 Search & Filter Functionality
+
+🔹 HR Dashboard & Analytics
+
+🔹 PostgreSQL Database Integration
+
+### 🎯 Impact
+
+Digitizes workforce management and improves HR operational efficiency.
 
 ---
 
-# 💼 Internship Experience
+## 📚 Library Management System
 
-## Web Development Intern | UptoSkills
+<div align="center">
 
-### Responsibilities
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 
-✅ Developed Responsive Web Applications
+</div>
 
-✅ Worked with React.js & Node.js
+### 📌 Overview
 
-✅ Created Interactive User Interfaces
+A complete digital library solution designed to manage books, members, borrowing records, and inventory operations.
 
-✅ Collaborated with Development Teams
+### ✨ Highlights
 
-✅ Implemented Real-world Features
+🔹 Book Inventory Management
+
+🔹 Member Registration
+
+🔹 Issue & Return Tracking
+
+🔹 Advanced Search Features
+
+🔹 Administrative Dashboard
+
+### 🎯 Impact
+
+Automates traditional library operations and improves record accuracy.
+
+---
+
+## 🚗 Car Rental System
+
+<div align="center">
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Database](https://img.shields.io/badge/Database-4479A1?style=for-the-badge)
+
+</div>
+
+### 📌 Overview
+
+A business-oriented rental management application that enables efficient vehicle booking and customer management.
+
+### ✨ Highlights
+
+🔹 Vehicle Booking Platform
+
+🔹 Rental Tracking System
+
+🔹 Customer Management
+
+🔹 Vehicle Availability Monitoring
+
+🔹 Administrative Controls
+
+### 🎯 Impact
+
+Simplifies vehicle rental operations and improves customer experience.
+
+---
+
+## 📝 Quiz Application
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+
+</div>
+
+### 📌 Overview
+
+An online examination and assessment platform that allows users to take quizzes and instantly evaluate their performance.
+
+### ✨ Highlights
+
+🔹 User Authentication
+
+🔹 Quiz Creation & Management
+
+🔹 Automated Scoring
+
+🔹 Performance Analytics
+
+🔹 Result Tracking Dashboard
+
+### 🎯 Impact
+
+Provides an engaging and scalable platform for online assessments.
+
+---
+
+<div align="center">
+
+# 🎯 Core Competencies Demonstrated
+
+| Domain                    | Skills                 |
+| ------------------------- | ---------------------- |
+| 🌐 Full Stack Development | Frontend + Backend     |
+| 🐍 Django Development     | Web Applications       |
+| 🤖 Machine Learning       | Predictive Analytics   |
+| 🗄️ Database Management   | PostgreSQL, SQL        |
+| 🔐 Authentication         | Secure Login Systems   |
+| 📊 Data Analysis          | Business Insights      |
+| 🚀 Software Engineering   | End-to-End Development |
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Continuously Building, Learning & Innovating
+
+*"Transforming ideas into scalable software solutions."*
+
+</div>
 
 ---
 
