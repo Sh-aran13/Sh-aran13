@@ -1,43 +1,56 @@
-# 🚀 README.md for GitHub Profile (Premium Developer Portfolio Edition)
-
-> Repository Name: **Sh-aran13**
-
-````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=250&section=header&text=Allada%20Sai%20Satya%20Sharan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Django%20Developer%20|%20GATE%20CSE%202027%20Aspirant&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Allada%20Sai%20Satya%20Sharan&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Django%20%26%20Systems%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Django+%7C+React+%7C+Node.js+%7C+PostgreSQL;Machine+Learning+Enthusiast;Building+Real+World+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+scalable+Django+%26+PostgreSQL+systems;Integrating+ML+into+real-world+web+products;Final+Year+B.Tech+%40+JNTU-G+%E2%80%94+IT;Targeting+GATE+CSE+2027)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Sh-aran13&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF&labelColor=161b22)](https://sharan-portfolio07.vercel.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://www.linkedin.com/in/sai-satya-sharan-allada-3412752b7)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:sharan.alla07@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Sh--aran13-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/Sh-aran13)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```yaml
-Name        : Allada Sai Satya Sharan
-Education   : B.Tech Information Technology
-University  : JNTU-Gurajada Vizianagaram
-Role        : Full Stack Developer
-Location    : Andhra Pradesh, India
+<br/>
 
-Currently:
-  - Building Full Stack Applications
-  - Learning System Design
-  - Practicing Data Structures & Algorithms
-  - Preparing for GATE CSE 2027
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="58%" valign="top">
+  
+# whoami
+name        : Allada Sai Satya Sharan
+role        : Full Stack Engineer
+university  : JNTU–Gurajada, Vizianagaram
+degree      : B.Tech – Information Technology
+year        : Final Year
 
-Interests:
-  - Software Engineering
-  - Web Development
-  - Machine Learning
-  - Databases
-  - Open Source
-````
+# interests
+focus_areas :
+  - Django · PostgreSQL · System Design
+  - React.js · Node.js · Express
+  - Machine Learning Integration
+  - Data Structures & Algorithms
 
+# right now
+doing       :
+  - Deep-diving React patterns & async Node.js
+  - GATE CSE 2027 preparation
+  - Hunting for open-source contributions
+  - Building ML-integrated production systems
+
+# philosophy
+quote       : >
+  Clean code, atomic commits,
+  measurable outcomes.
 ---
 
 # 💼 Professional Summary
