@@ -238,7 +238,7 @@ Career Goal:
 
 ---
 
-## 🎓 Overall Workshop Coordinator — ITYUKTA
+## 🎓 Overall Workshop Coordinator — ITYUKTA 2026
 
 ### Highlights
 
