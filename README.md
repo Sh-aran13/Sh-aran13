@@ -1,4 +1,5 @@
 <div align="center">
+
 <svg width="100%" viewBox="0 0 680 220" role="img" xmlns="http://www.w3.org/2000/svg">
   <title>GitHub Profile Banner — Allada Sai Satya Sharan</title>
   <defs>
@@ -55,6 +56,7 @@
   <circle cx="640" cy="72" r="3" fill="#58A6FF" opacity="0.6"/>
   <circle cx="640" cy="148" r="3" fill="#58A6FF" opacity="0.6"/>
 </svg>
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=🚀+Building+scalable+Django+%26+PostgreSQL+systems;🤖+Integrating+ML+into+real-world+web+products;🎓+Final+Year+B.Tech+%40+JNTU-Gurajada%2C+Vizianagaram;📚+Targeting+GATE+CSE+2027)](https://git.io/typing-svg)
@@ -103,7 +105,7 @@ Currently   :
   - Hunting for open-source contributions
   - Building ML-integrated production systems
 
-Philosophy  : "Clean code, atomic commits, measurable outcomes."
+philosophy  : "Clean code, atomic commits, measurable outcomes."
 ```
 
 > 🎯 Passionate Full Stack Developer building real-world solutions across **healthcare**, **finance**, **education**, and **enterprise management** domains. Strong foundation in **DSA**, **DBMS**, **OS**, and **Computer Networks**.
@@ -338,6 +340,21 @@ Philosophy  : "Clean code, atomic commits, measurable outcomes."
 
 ### ⭐ If you like my work, consider giving a star to my repos!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<svg width="100%" viewBox="0 0 680 100" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Footer wave</title>
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0f1b2d"/>
+    </linearGradient>
+  </defs>
+  <rect width="680" height="100" fill="url(#footerBg)"/>
+  <path d="M0,0 Q170,60 340,40 Q510,20 680,60 L680,100 L0,100 Z" fill="#131d2e" opacity="0.9"/>
+  <path d="M0,20 Q170,80 340,55 Q510,30 680,75 L680,100 L0,100 Z" fill="#0f1b2d" opacity="0.7"/>
+  <circle cx="100" cy="25" r="1.5" fill="#58A6FF" opacity="0.5"/>
+  <circle cx="300" cy="15" r="1" fill="#fff" opacity="0.3"/>
+  <circle cx="500" cy="20" r="1.5" fill="#58A6FF" opacity="0.4"/>
+  <circle cx="600" cy="10" r="1" fill="#fff" opacity="0.3"/>
+</svg>
 
 </div>
