@@ -1,7 +1,5 @@
 <div align="center">
 
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Allada%20Sai%20Satya%20Sharan&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Django%20%26%20Systems%20Enthusiast%20%7C%20ML%20Integrator&descAlignY=58&descSize=16" width="100%" />
 
 </div>
@@ -36,25 +34,24 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name        : Allada Sai Satya Sharan
-role        : Full Stack Engineer
-university  : JNTU–Gurajada, Vizianagaram
-degree      : B.Tech – Information Technology
-year        : Final Year (2025)
+Name        : Allada Sai Satya Sharan
+Role        : Full Stack Engineer
+University  : JNTU–Gurajada, Vizianagaram
+Degree      : B.Tech – Information Technology
+Year        : Final Year (2025)
 
-focus_areas :
+Focus Areas :
   - Django · PostgreSQL · System Design
   - React.js · Node.js · Express.js
   - Machine Learning Integration
   - Data Structures & Algorithms
 
-currently   :
+Currently   :
   - Deep-diving into React patterns & async Node.js
-  - Preparing for GATE CSE 2027
   - Hunting for open-source contributions
   - Building ML-integrated production systems
 
-philosophy  : "Clean code, atomic commits, measurable outcomes."
+Philosophy  : "Clean code, atomic commits, measurable outcomes."
 ```
 
 > 🎯 Passionate Full Stack Developer building real-world solutions across **healthcare**, **finance**, **education**, and **enterprise management** domains. Strong foundation in **DSA**, **DBMS**, **OS**, and **Computer Networks**.
