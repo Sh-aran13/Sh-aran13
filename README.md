@@ -1,160 +1,323 @@
+# <div align="center">🚀 Allada Sai Satya Sharan</div>
+
 <div align="center">
 
-# Allada Sai Satya Sharan
+### Full Stack Developer • Django Enthusiast • Machine Learning Explorer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=🚀+Building+scalable+Django+%26+PostgreSQL+systems;🤖+Integrating+ML+into+real-world+web+products;🎓+Final+Year+B.Tech+%40+JNTU-Gurajada%2C+Vizianagaram;)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Django+%7C+React+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Web+Applications;Machine+Learning+Integrated+Solutions;Open+Source+Contributor+in+Progress" />
 
-<br/>
+<br>
 
-<a href="https://sharan-portfolio07.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0d1117?style=for-the-badge&logoColor=58A6FF&labelColor=161b22&color=58A6FF" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/sai-satya-sharan-allada-3412752b7">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" />
-</a>&nbsp;
-<a href="mailto:sharan.alla07@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-sharan.alla07-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" />
-</a>&nbsp;
-<a href="https://github.com/Sh-aran13">
-  <img src="https://img.shields.io/badge/GitHub-Sh--aran13-white?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" />
+<a href="https://sharan-portfolio07.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Now-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/sai-satya-sharan-allada-3412752b7">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sh-aran13&style=for-the-badge&color=58A6FF&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Sh-aran13?style=for-the-badge&color=58A6FF&labelColor=161b22)
+<a href="mailto:sharan.alla07@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sh-aran13">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=Sh-aran13\&style=for-the-badge\&color=58A6FF)
+![](https://img.shields.io/github/followers/Sh-aran13?style=for-the-badge)
+![](https://img.shields.io/github/stars/Sh-aran13?style=for-the-badge)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🧑‍💻 About Me
-
-<br/>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top">
+# 👨‍💻 About Me
 
 ```yaml
-# Profile Definition
-Identity:
-  Name         : Allada Sai Satya Sharan
-  Role         : Full Stack Web Developer
-  University   : JNTU–Gurajada, Vizianagaram
-  Degree       : B.Tech – Information Technology
-  Status       : Final Year (2023 - 2027)
+Name: Allada Sai Satya Sharan
 
-# Technical Directives
-Focus Areas:
-  - Django · PostgreSQL · System Design
-  - React.js · Node.js · Express.js
-  - Machine Learning Integration
+Role:
+  - Full Stack Web Developer
+
+Education:
+  University: JNTU-Gurajada, Vizianagaram
+  Degree: B.Tech Information Technology
+  Status: Final Year Student
+
+Specializations:
+  - Full Stack Development
+  - Backend Engineering
+  - Database Design
+  - Machine Learning Applications
+
+Current Focus:
+  - Advanced Django Development
+  - PostgreSQL Optimization
+  - System Design Fundamentals
   - Data Structures & Algorithms
+  - Open Source Contributions
 
-# Current Workflows
-Executing:
-  - Deep-diving React patterns & async Node.js
-  - Hunting for open-source contributions
-  - Building ML-integrated production systems
-
-# Core Philosophy
-Mantra: "Clean code, atomic commits, measurable outcomes."
+Career Goal:
+  Build scalable software products that solve real-world problems.
 ```
-🎯 Overview Passionate Full Stack Developer:
-Building real-world solutions across healthcare, finance, education, and enterprise management domains.
----
-## 🛠️ Tech Stack
- 
-### 💬 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,php&theme=dark" />
-</p>
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
-</p>
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express&theme=dark" />
-</p>
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
-</p>
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-</p>
 
 ---
 
-🎯 Strategic Goals:
+# 🚀 What I Do
+
+💻 Design and develop modern web applications
+
+⚙️ Build scalable backend systems using Django & Node.js
+
+🗄️ Design optimized relational databases using PostgreSQL
+
+📊 Develop machine learning-powered solutions
+
+🔒 Implement secure authentication and role-based access control
+
+📱 Create responsive and mobile-friendly user experiences
+
+📈 Focus on performance, maintainability, and clean architecture
 
 ---
-💼 Career: High-impact Software Engineering Roles.
-🌍 Ecosystem: Open Source Contributor.
-⚙️ Engineering: Master Advanced Django & DB Patterns.
 
-🚀 Featured Projects:
+# 🛠 Tech Stack
 
-🏥 Medicine Recommendation System
+## Languages
 
-🔬 Disease Prediction: Analytical mapping from multi-label symptom matrix inputs.
-💊 Targeted Recommendations: Automated pharmaceutical mapping protocols.
-📊 Operator Dashboard: Live analytics and historical report compilation layouts.
-🧠 Symptom Engine: Smart verification using weighted distribution models.
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,php"/>
+</p>
 
-💰 Loan Approval Prediction System:
+## Frontend
 
-🌲 Ensemble Scoring: Implemented a fine-tuned Random Forest framework for assessment.
-📈 Real-Time Evaluation: Real-time checking pipeline for incoming applicant parameters.
-🔐 Audit-Grade Ledger: Hardened transactional history snapshots via safe DB workflows.
-⚡ Instant Processing: Sub-second inference speeds wrapped inside clear dashboards.
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+</p>
 
-👥 Enterprise Employee Management System:
+## Backend
 
-🗂️ Workforce Tree: Scalable profiles mapping deep departmental structures.
-🔒 Granular RBAC: Access policy checks enforced safely at the user session stage.
-💳 Atomic Compensation: Protected database operations preventing out-of-order changes.
-🔍 Filtered Evaluation: Heavy query aggregation for quick HR dashboard reporting.
-📚 Scalable Library Management Engine
-🔄 Race-Condition Proof: Leveraged explicit row locking (SELECT FOR UPDATE) on allocations.
-📖 Catalog Matrices: Relational data schemas for tracking recursive collections.
-💰 Fine Verification: Real-time ledger checks evaluating rental duration policies.
-🛡️ Central Management: Clean administration center to handle structural catalogs.
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express"/>
+</p>
 
-🚗 Car Rental Fleet Management System:
+## Databases
 
-🔒 Zero Overbooking: Strict transaction wraps ensuring isolated reservation events.
-🚘 State Machine: Automated status transformations adjusting live fleet charts.
-💲 Dynamic Tiering: Rate rules processing duration parameters and seasonal metrics.
-📊 Revenue Triggers: Financial pipeline summarizing operational bookkeeping states.
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
+</p>
 
-🧠 Dynamic Quiz Application:
+## Tools & Platforms
 
-🎟️ Session Isolation: Secure token tracking patterns protecting test state boundaries.
-⏱️ Server-Side Deadlines: Hard structural limits preventing local client manipulation.
-📊 Instant Evaluation: Automated result matrix computing and distributed option tracing.
-🏅 Data Portability: Compiled report generation with optimized schema layouts.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</p>
 
-💼 Professional Experience
+---
 
-🧑‍🏫 Web Development Intern — UptoSkills
-Core Engineering Team
+# 🏆 Featured Projects
 
-⚛️ Formulated clear user experiences using modern asynchronous React.js patterns.
-⚡ Created and verified reliable API surfaces backed by transactional Node.js services.
-📱 Engineered adaptable, mobile-first interface rules adhering to optimized asset delivery standardizations.
-🛠️ Coordinated alongside agile peers inside staging contexts utilizing systematic version tracking.
+## 🏥 Medicine Recommendation System
 
-              React.js · Node.js · MongoDB · REST APIs · Git Workflow · Agile Lifecycle
+### Key Features
 
-🎓 Overall Workshop Coordinator — ITYUKTA (Technical Festival)
-JNTU-Gurajada Executive Operations Group
+✔ Disease Prediction using Symptom Analysis
 
-🎯 Spearheaded technical workshop structural blueprints and logistical milestones for hundreds of active entries.
-🤝 Maintained communication lines balancing multiple cross-functional work modules under strict timelines.
-📢 Deployed tactical crisis management measures to guarantee smooth execution tracks during high-traffic intervals.
+✔ Personalized Medicine Recommendations
 
-                  Operational Strategy · Stakeholder Management · Risk Abatement
+✔ Intelligent Symptom Verification Engine
+
+✔ Analytics Dashboard
+
+✔ Historical Report Management
+
+### Tech Used
+
+`Python` `Django` `Machine Learning` `PostgreSQL`
+
+---
+
+## 💰 Loan Approval Prediction System
+
+### Key Features
+
+✔ Random Forest Prediction Model
+
+✔ Real-Time Loan Eligibility Assessment
+
+✔ Secure Applicant Management
+
+✔ Dashboard Analytics
+
+✔ Instant Prediction Results
+
+### Tech Used
+
+`Python` `Machine Learning` `Django` `PostgreSQL`
+
+---
+
+## 👨‍💼 Enterprise Employee Management System
+
+### Key Features
+
+✔ Employee Lifecycle Management
+
+✔ Role-Based Access Control (RBAC)
+
+✔ Department & Designation Management
+
+✔ HR Analytics Dashboard
+
+✔ Resume & Profile Management
+
+### Tech Used
+
+`PHP` `PostgreSQL` `Bootstrap`
+
+---
+
+## 🚗 Car Rental Management System
+
+### Key Features
+
+✔ Vehicle Reservation System
+
+✔ Fleet Tracking
+
+✔ Booking Automation
+
+✔ Revenue Analytics
+
+✔ Dynamic Pricing Model
+
+### Tech Used
+
+`PHP` `MySQL` `Bootstrap`
+
+---
+
+## 📚 Library Management System
+
+### Key Features
+
+✔ Book Inventory Tracking
+
+✔ Issue & Return Management
+
+✔ Fine Calculation System
+
+✔ Admin Dashboard
+
+✔ Search & Reporting
+
+### Tech Used
+
+`Django` `PostgreSQL`
+
+---
+
+# 💼 Experience
+
+## 🚀 Web Development Intern — UptoSkills
+
+### Responsibilities
+
+* Developed responsive user interfaces using React.js
+* Built backend APIs using Node.js
+* Worked with MongoDB database operations
+* Collaborated within Agile development teams
+* Implemented modern Git workflows
+
+### Technologies
+
+`React.js` `Node.js` `MongoDB` `REST APIs` `Git`
+
+---
+
+## 🎓 Overall Workshop Coordinator — ITYUKTA
+
+### Highlights
+
+* Led multiple technical workshops
+* Coordinated large-scale student participation
+* Managed planning and execution activities
+* Worked with cross-functional teams
+* Ensured successful event delivery
+
+### Skills Gained
+
+`Leadership` `Communication` `Project Coordination` `Team Management`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sh-aran13&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-aran13&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh-aran13&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh-aran13&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026–2027 Goals
+
+* ✅ Master Advanced Django Architecture
+* ✅ Improve System Design Knowledge
+* ✅ Contribute to Open Source Projects
+* ✅ Build Production-Ready SaaS Applications
+* ✅ Secure a Software Development Role
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Always open to collaborations, internships, and software development opportunities.
+
+<a href="mailto:sharan.alla07@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sai-satya-sharan-allada-3412752b7">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://sharan-portfolio07.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Explore-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ "First, solve the problem. Then, write the code."
+
+</div>
