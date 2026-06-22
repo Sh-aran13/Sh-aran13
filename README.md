@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Allada%20Sai%20Satya%20Sharan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Django%20%26%20Systems%20Enthusiast%20%E2%80%A2%20ML%20Integrator&descAlignY=58&descSize=16" width="100%" />
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Allada%20Sai%20Satya%20Sharan&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Django%20%26%20Systems%20Enthusiast%20%7C%20ML%20Integrator&descAlignY=58&descSize=16" width="100%" />
+
+</div>
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=🚀+Building+scalable+Django+%26+PostgreSQL+systems;🤖+Integrating+ML+into+real-world+web+products;🎓+Final+Year+B.Tech+%40+JNTU-Gurajada%2C+Vizianagaram;📚+Targeting+GATE+CSE+2027)](https://git.io/typing-svg)
