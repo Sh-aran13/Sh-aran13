@@ -1,9 +1,8 @@
 <div align="center">
 
 # Allada Sai Satya Sharan
-### 🚀 Full Stack Engineer · Django & Systems Enthusiast · ML Integrator
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=🚀+Building+scalable+Django+%26+PostgreSQL+systems;🤖+Integrating+ML+into+real-world+web+products;🎓+Final+Year+B.Tech+%40+JNTU-Gurajada%2C+Vizianagaram;📚+Targeting+GATE+CSE+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=🚀+Building+scalable+Django+%26+PostgreSQL+systems;🤖+Integrating+ML+into+real-world+web+products;🎓+Final+Year+B.Tech+%40+JNTU-Gurajada%2C+Vizianagaram;)](https://git.io/typing-svg)
 
 <br/>
 
