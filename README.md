@@ -1,322 +1,291 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Allada%20Sai%20Satya%20Sharan&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Django%20%26%20Systems%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+scalable+Django+%26+PostgreSQL+systems;Integrating+ML+into+real-world+web+products;Final+Year+B.Tech+%40+JNTU-G+%E2%80%94+IT;Targeting+GATE+CSE+2027)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Allada%20Sai%20Satya%20Sharan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Django%20%26%20Systems%20Enthusiast%20%E2%80%A2%20ML%20Integrator&descAlignY=58&descSize=16" width="100%" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF&labelColor=161b22)](https://sharan-portfolio07.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://www.linkedin.com/in/sai-satya-sharan-allada-3412752b7)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:sharan.alla07@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Sh--aran13-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/Sh-aran13)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=🚀+Building+scalable+Django+%26+PostgreSQL+systems;🤖+Integrating+ML+into+real-world+web+products;🎓+Final+Year+B.Tech+%40+JNTU-Gurajada%2C+Vizianagaram;📚+Targeting+GATE+CSE+2027)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://sharan-portfolio07.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0d1117?style=for-the-badge&logoColor=58A6FF&labelColor=161b22&color=58A6FF" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/sai-satya-sharan-allada-3412752b7">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" />
+</a>&nbsp;
+<a href="mailto:sharan.alla07@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-sharan.alla07-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" />
+</a>&nbsp;
+<a href="https://github.com/Sh-aran13">
+  <img src="https://img.shields.io/badge/GitHub-Sh--aran13-white?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sh-aran13&style=for-the-badge&color=58A6FF&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Sh-aran13?style=for-the-badge&color=58A6FF&labelColor=161b22)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-<br/>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="58%" valign="top">
-  
-# whoami
+```yaml
 name        : Allada Sai Satya Sharan
 role        : Full Stack Engineer
 university  : JNTU–Gurajada, Vizianagaram
 degree      : B.Tech – Information Technology
-year        : Final Year
+year        : Final Year (2025)
 
-# interests
 focus_areas :
   - Django · PostgreSQL · System Design
-  - React.js · Node.js · Express
+  - React.js · Node.js · Express.js
   - Machine Learning Integration
   - Data Structures & Algorithms
 
-# right now
-doing       :
-  - Deep-diving React patterns & async Node.js
-  - GATE CSE 2027 preparation
+currently   :
+  - Deep-diving into React patterns & async Node.js
+  - Preparing for GATE CSE 2027
   - Hunting for open-source contributions
   - Building ML-integrated production systems
 
-# philosophy
-quote       : >
-  Clean code, atomic commits,
-  measurable outcomes.
----
+philosophy  : "Clean code, atomic commits, measurable outcomes."
+```
 
-# 💼 Professional Summary
-
-Passionate Full Stack Developer with hands-on experience in building web applications using Django, React.js, Node.js, PHP, PostgreSQL, and Machine Learning technologies.
-
-Experienced in developing real-world solutions across healthcare, finance, education, and enterprise management domains. Strong foundation in Data Structures, Database Management Systems, Operating Systems, and Computer Networks.
-
-Focused on creating scalable, secure, and user-centric software solutions while continuously enhancing problem-solving and software engineering skills.
+> 🎯 Passionate Full Stack Developer building real-world solutions across **healthcare**, **finance**, **education**, and **enterprise management** domains. Strong foundation in **DSA**, **DBMS**, **OS**, and **Computer Networks**.
 
 ---
 
-# 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="center">
+### 💬 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,php&theme=dark" />
+</p>
 
-<a href="https://sharan-portfolio07.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel"/>
-</a>
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
+</p>
 
-<a href="mailto:sharan.alla07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express&theme=dark" />
+</p>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
+</p>
 
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
 
-# 💻 Internship Experience
+## 🚀 Featured Projects
 
-## Web Development Intern | UptoSkills
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### Responsibilities
+### 🏥 Medicine Recommendation System
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white)
 
-✔ Developed responsive web applications
+- 🔬 Disease prediction from symptoms
+- 💊 ML-based medicine recommendations
+- 📊 Interactive analytics dashboard
+- 🧠 Symptom analysis engine
 
-✔ Worked with React.js and Node.js
+</td>
+<td width="50%" valign="top">
 
-✔ Implemented backend functionalities
+### 💰 Loan Approval Prediction System
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white)
 
-✔ Designed modern user interfaces
+- 🌲 Random Forest algorithm
+- 📈 Real-time loan eligibility prediction
+- 💹 Financial analytics & insights
+- ⚡ Instant approval decisions
 
-✔ Collaborated on real-world software projects
+</td>
+</tr>
 
-### Skills Acquired
+<tr>
+<td width="50%" valign="top">
 
-`React.js` `Node.js` `MongoDB` `REST APIs` `Git` `Team Collaboration`
+### 👥 Employee Management System
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
----
+- 🗂️ Employee registration & HR dashboard
+- 📄 Resume management system
+- 🏢 Department & role management
+- 🔍 Advanced search & filter
 
-# 🛠️ Tech Stack
+</td>
+<td width="50%" valign="top">
 
-## Languages
+### 📚 Library Management System
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![PHP](https://skillicons.dev/icons?i=php)
+- 📖 Book inventory & cataloging
+- 👤 User authentication & management
+- 🔄 Issue & return tracking
+- 🛡️ Admin control dashboard
 
-## Frontend
+</td>
+</tr>
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![React](https://skillicons.dev/icons?i=react)
+<tr>
+<td width="50%" valign="top">
 
-## Backend
+### 🚗 Car Rental System
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-![Django](https://skillicons.dev/icons?i=django)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
+- 🚘 Vehicle booking & fleet management
+- 👨‍💼 Customer profile management
+- 📅 Rental scheduling & tracking
+- 📊 Revenue analytics
 
-## Databases
+</td>
+<td width="50%" valign="top">
 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+### 🧠 Quiz Application
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## Tools
+- ❓ Dynamic quiz management
+- 🔐 User authentication system
+- 📊 Performance analytics & scoring
+- 🏅 Result generation & export
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-
----
-
-# 🚀 Featured Projects
-
-## 🥇 Medicine Recommendation System
-
-### Tech Stack
-
-Python • Django • Machine Learning • PostgreSQL
-
-### Features
-
-* Disease Prediction
-* Medicine Recommendation
-* Symptom Analysis
-* ML-Based Suggestions
-* Interactive Dashboard
-
----
-
-## 🥈 Loan Approval Prediction System
-
-### Tech Stack
-
-Python • Django • Machine Learning
-
-### Features
-
-* Loan Eligibility Prediction
-* Random Forest Algorithm
-* Financial Analytics
-* Real-Time Predictions
-
----
-
-## 🥉 Employee Management System
-
-### Tech Stack
-
-PHP • PostgreSQL • JavaScript
-
-### Features
-
-* Employee Registration
-* HR Dashboard
-* Resume Management
-* Department Management
-* Search & Filter
+</td>
+</tr>
+</table>
 
 ---
 
-## 4️⃣ Library Management System
+## 💼 Experience
 
-### Tech Stack
+<table width="100%">
+<tr>
+<td>
 
-Python • Django • PostgreSQL
+### 🧑‍🏫 Web Development Intern — UptoSkills
 
-### Features
+- ✅ Built responsive web applications using **React.js** and **Node.js**
+- ✅ Developed RESTful APIs and backend functionalities
+- ✅ Designed modern, mobile-first user interfaces
+- ✅ Collaborated in agile team environment on production projects
 
-* Book Inventory
-* User Management
-* Issue & Return Tracking
-* Admin Dashboard
+**Skills Gained:** `React.js` `Node.js` `MongoDB` `REST APIs` `Git` `Team Collaboration`
 
----
+</td>
+</tr>
+<tr>
+<td>
 
-## 5️⃣ Car Rental System
+### 🎓 Overall Workshop Coordinator — ITYUKTA (Tech Fest)
 
-### Tech Stack
+- 🎯 Led planning and execution of multiple technical workshops
+- 🤝 Coordinated cross-functional teams and managed stakeholders
+- 📢 Drove participant engagement and smooth workshop operations
 
-Python • Django • PostgreSQL
-
-### Features
-
-* Vehicle Booking
-* Customer Management
-* Rental Tracking
-* Fleet Management
-
----
-
-## 6️⃣ Quiz Application
-
-### Tech Stack
-
-Python • Django • PostgreSQL
-
-### Features
-
-* Quiz Management
-* User Authentication
-* Performance Analytics
-* Result Generation
+</td>
+</tr>
+</table>
 
 ---
 
-# 📜 Certifications
+## 📊 GitHub Analytics
 
-🏆 Python Programming
+<div align="center">
 
-🏆 Web Development
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sh-aran13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sh-aran13&theme=tokyonight&hide_border=true" />
 
-🏆 Django Development
+<br/>
 
-🏆 React.js Development
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-aran13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-🏆 JavaScript Development
+</div>
 
-🏆 Full Stack Development
+### 📈 Contribution Graph
 
----
-
-# 🏆 Leadership Experience
-
-## Overall Workshop Coordinator – ITYUKTA
-
-Led and coordinated multiple technical workshops during ITYUKTA.
-
-### Responsibilities
-
-* Event Planning & Execution
-* Team Coordination
-* Stakeholder Management
-* Participant Engagement
-* Workshop Operations
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh-aran13&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+## 🏆 Achievements & Certifications
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sh-aran13&show_icons=true&theme=tokyonight&hide_border=true"/>
+| 🏅 Certification | 🛠️ Domain |
+|:---|:---|
+| 🐍 Python Programming | Core Language |
+| 🌐 Web Development | Frontend & Backend |
+| 🦄 Django Development | Backend Framework |
+| ⚛️ React.js Development | Frontend Framework |
+| 📜 JavaScript Development | Scripting |
+| 🔥 Full Stack Development | End-to-End Engineering |
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sh-aran13&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-aran13&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh-aran13&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
-# 📌 2026 Goals
+## 🎯 2026 Goals
 
-* Build 10+ Production Projects
-* Contribute to Open Source
-* Master Django & PostgreSQL
-* Strengthen DSA Skills
-* Crack GATE CSE 2027
-* Secure Software Engineering Opportunities
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                    ROADMAP 2026                          ║
+╠══════════════════════════════════════════════════════════╣
+║  🏗️  Build 10+ production-grade projects                 ║
+║  🌍  Contribute to impactful open-source repos           ║
+║  🧠  Master advanced Django & PostgreSQL patterns        ║
+║  ⚡  Strengthen DSA & competitive programming            ║
+║  📖  Crack GATE CSE 2027                                 ║
+║  💼  Secure a top Software Engineering opportunity       ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-# 💬 Quote
+## 💬 Quote
 
-> "Success is the sum of small efforts repeated day in and day out."
+<div align="center">
+
+> *"Success is the sum of small efforts repeated day in and day out."*
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for Visiting My Profile ⭐
+### ⭐ If you like my work, consider giving a star to my repos!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 </div>
-```
