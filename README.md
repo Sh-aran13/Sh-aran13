@@ -61,8 +61,8 @@ Executing:
 # Core Philosophy
 Mantra: "Clean code, atomic commits, measurable outcomes."
 ```
-🎯 Overview
-Passionate Full Stack Developer building real-world solutions across healthcare, finance, education, and enterprise management domains. Strong foundation in DSA, DBMS, OS, and Computer Networks.
+🎯 Overview Passionate Full Stack Developer:
+Building real-world solutions across healthcare, finance, education, and enterprise management domains.
 ---
 ## 🛠️ Tech Stack
  
@@ -88,11 +88,13 @@ Passionate Full Stack Developer building real-world solutions across healthcare,
 </p>
 
 ---
-🎯 Strategic Goals
-💼 Career: High-impact Software Engineering Roles
-📐 Academic: Crack GATE CSE 2027
-🌍 Ecosystem: Open Source Contributor
-⚙️ Engineering: Master Advanced Django & DB Patterns
+
+🎯 Strategic Goals:
+
+---
+💼 Career: High-impact Software Engineering Roles.
+🌍 Ecosystem: Open Source Contributor.
+⚙️ Engineering: Master Advanced Django & DB Patterns.
 
 🚀 Featured Projects:
 
