@@ -86,8 +86,8 @@ Passionate Full Stack Developer building real-world solutions across healthcare,
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 </p>
----
 
+---
 🎯 Strategic Goals
 💼 Career: High-impact Software Engineering Roles
 📐 Academic: Crack GATE CSE 2027
