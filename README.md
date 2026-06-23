@@ -176,7 +176,7 @@ Career Goal:
 
 ### Tech Used
 
-`PHP` `PostgreSQL` `Bootstrap`
+`PHP` `PostgreSQL` `HTML` `CSS` `JS`
 
 ---
 
@@ -196,8 +196,7 @@ Career Goal:
 
 ### Tech Used
 
-`PHP` `MySQL` `Bootstrap`
-
+`Java` `PostgreSQL` `Servlets` `JSP`
 ---
 
 ## 📚 Library Management System
