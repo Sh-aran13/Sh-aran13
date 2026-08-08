@@ -81,7 +81,7 @@
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
 Below are some of my most notable projects—built using Django, Java, PHP, and machine learning. Click any project to view the source, demo, and readme.
 
