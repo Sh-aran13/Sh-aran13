@@ -28,7 +28,6 @@
 [![Visitors](https://komarev.com/ghpvc/?username=Sh-aran13&style=for-the-badge&color=58A6FF&label=Profile+Views)](https://visitcount.itsvg.in)
 ![](https://img.shields.io/github/followers/Sh-aran13?style=for-the-badge&color=238636)
 ![](https://img.shields.io/github/stars/Sh-aran13?style=for-the-badge&color=e3b341)
-[![Generate Pacman Contribution Graph](https://github.com/Sh-aran13/Sh-aran13/actions/workflows/pacman.yml/badge.svg)](https://github.com/Sh-aran13/Sh-aran13/actions/workflows/pacman.yml)
 
 </div>
 
