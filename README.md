@@ -1,38 +1,38 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=220&section=header&text=Sai%20Satya%20Sharan%20Allada&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+<!-- Header Banner with Advanced Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30,40,50&height=280&section=header&text=Sai%20Satya%20Sharan%20Allada&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20|%20Django%20Enthusiast%20|%20ML%20Explorer&descSize=20&descAlignY=65" width="100%" />
 
 <br/>
 
-<!-- Typing SVG Subtitle -->
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Django+%7C+React+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Web+Applications;Machine+Learning+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+<!-- Fixed Typing SVG Subtitle -->
+<a href="https://github.com/Sh-aran13">
+  <img src="https://readme-typing-svg.vercel.app?font=Space+Mono&weight=600&size=22&pause=1000&color=79C0FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Django+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications;Machine+Learning+Integrated+Solutions;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social & Action Badges -->
+<!-- Modern, Symmetrical Social Badges -->
 <p align="center">
   <a href="https://sharan-portfolio07.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Live-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/sai-satya-sharan-allada-3412752b7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sharan.allada07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Sh-aran13">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<!-- Live Stats Badges -->
+<!-- Sleek Live Stats Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sh-aran13&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Sh-aran13?style=flat-square&color=238636&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Sh-aran13?style=flat-square&color=e3b341&label=TOTAL+STARS" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Sh-aran13&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Sh-aran13?style=for-the-badge&color=238636&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Sh-aran13?style=for-the-badge&color=e3b341&label=TOTAL+STARS" alt="Stars" />
 </p>
 
 </div>
@@ -43,35 +43,38 @@
 
 <table border="0">
   <tr>
-    <td width="55%">
-      <p>👋 Hello! I'm <b>Sai Satya Sharan</b>, a passionate Full Stack Developer with a knack for designing high-performance backend systems and integrating machine learning capabilities into responsive web apps.</p>
+    <td width="60%">
+      <p>👋 Hello World! I'm <b>Sai Satya Sharan</b>, a driven Full Stack Developer focusing on creating powerful backend systems with Django and exploring the synergy between web technology and Machine Learning.</p>
+      <p>I see coding not just as a job, but as an opportunity to build digital products that are both elegant and highly functional. My passion lies in solving complex problems and turning logical concepts into intuitive, interactive experiences.</p>
       <ul>
-        <li>🔭 <b>Current Focus:</b> Developing the <i>Skillnova Intern Management System</i> & building scalable backend architectures.</li>
-        <li>👯 <b>Open to Collaborate:</b> Open-source Django systems, microservices, and ML-driven web apps.</li>
-        <li>🤝 <b>Seeking Guidance:</b> Advanced Low-Level (LLD) & High-Level (HLD) System Design and query optimizations for high traffic.</li>
-        <li>🌱 <b>Currently Learning:</b> Distributed microservices architecture & refining core DS & Algo fundamentals.</li>
-        <li>⚡ <b>Fun Fact:</b> Writing clean code is like crafting interactive art — translating complex logic into seamless digital experiences.</li>
+        <li>🔭 <b>Current Focus:</b> Building the <i>Skillnova Intern Management System</i> & scalable backend architectures.</li>
+        <li>👯 <b>Open to Collaborate:</b> On Django/React projects, microservices, and ML application logic.</li>
+        <li>🤝 <b>Seeking Guidance:</b> Master class in System Design (LLD/HLD) and optimizing database performance for high traffic.</li>
+        <li>🌱 <b>Currently Learning:</b> Distributed microservices architecture and refining Data Structures & Algorithms.</li>
       </ul>
     </td>
-    <td width="45%" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=400&height=220&lines=class+Developer+%7B%0A++name%3A+%22Sai+Satya+Sharan%22%3B%0A++role%3A+%22Full+Stack+Dev%22%3B%0A++stack%3A+%5B%22Django%22%2C+%22React%22%5D%3B%0A++code()%20%7B%0A++++return+%22Turning+logic+into+art%22%3B%0A++%7D%0A%7D" alt="Developer Code Block Animation" />
+    <td width="40%" align="center">
+      <a href="https://github.com/Sh-aran13">
+        <img src="https://raw.githubusercontent.com/Sh-aran13/Sh-aran13/main/My%20photo.jpg" width="230px" alt="Sai Satya Sharan Allada" style="border-radius: 20px; border: 4px solid #58A6FF; box-shadow: 0 0 20px rgba(88, 166, 255, 0.7);" />
+      </a>
     </td>
   </tr>
 </table>
 
 ---
+
 ## 🛠 Tech Stack
 
 <div align="center">
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,tailwind,php,c&perline=9" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,tailwind,php,c&theme=dark" alt="Languages and Frameworks" />
 </p>
 
 ### 🗄 Databases, Tools & Hosting
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,vite,git,github,vercel,eclipse&perline=6" alt="Databases and Tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,vite,git,github,vercel,eclipse&theme=dark" alt="Databases and Tools" />
 </p>
 
 </div>
@@ -85,21 +88,21 @@
 <table border="0">
   <tr>
     <td align="center">
-      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Sh-aran13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Sh-aran13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sh-aran13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sh-aran13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh-aran13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh-aran13&theme=tokyonight&hide_border=true&mode=daily" alt="GitHub Streak" />
 
 <br/><br/>
 
-### 👾 Activity Feed
+### 👾 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sh-aran13/Sh-aran13/output/github-contribution-grid-snake-dark.svg">
@@ -125,22 +128,24 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sai-satya-sharan-allada-3412752b7" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:sharan.allada07@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://instagram.com/sharanallada4" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://sharan-portfolio07.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Website-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sai-satya-sharan-allada-3412752b7" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sharan.allada07@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/sharanallada4" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://sharan-portfolio07.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
-<!-- Footer Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=120&section=footer" width="100%" />
+<!-- Footer Waving Banner with "Thank You" Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30,40,50&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%" />
 
 </div>
