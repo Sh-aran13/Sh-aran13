@@ -54,7 +54,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-91A23RPO23I8623O4182/ke17ZwdGBToddI8pDm48kKAwwd20W4dhy43UryCD-bl7gQa3H78H3Y0txjaiv_0fDoOvr45m2m35fcZ448hJPv8-R25L4INP345BN42mhCbuLir1g45281516238/coding-dribbble.gif" width="100%" alt="Coding Animation" style="border-radius:10px;"/>
+      <img src="(https://github.com/Sh-aran13/Sh-aran13/blob/main/My%20photo.jpg)" width="100%" alt="Coding Animation" style="border-radius:10px;"/>
     </td>
   </tr>
 </table>
