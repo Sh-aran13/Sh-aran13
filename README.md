@@ -43,7 +43,7 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="55%">
       <p>👋 Hello! I'm <b>Sai Satya Sharan</b>, a passionate Full Stack Developer with a knack for designing high-performance backend systems and integrating machine learning capabilities into responsive web apps.</p>
       <ul>
         <li>🔭 <b>Current Focus:</b> Developing the <i>Skillnova Intern Management System</i> & building scalable backend architectures.</li>
@@ -53,14 +53,13 @@
         <li>⚡ <b>Fun Fact:</b> Writing clean code is like crafting interactive art — translating complex logic into seamless digital experiences.</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="(https://github.com/Sh-aran13/Sh-aran13/blob/main/My%20photo.jpg)" width="100%" alt="Coding Animation" style="border-radius:10px;"/>
+    <td width="45%" align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=400&height=220&lines=class+Developer+%7B%0A++name%3A+%22Sai+Satya+Sharan%22%3B%0A++role%3A+%22Full+Stack+Dev%22%3B%0A++stack%3A+%5B%22Django%22%2C+%22React%22%5D%3B%0A++code()%20%7B%0A++++return+%22Turning+logic+into+art%22%3B%0A++%7D%0A%7D" alt="Developer Code Block Animation" />
     </td>
   </tr>
 </table>
 
 ---
-
 ## 🛠 Tech Stack
 
 <div align="center">
